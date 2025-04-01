@@ -28,16 +28,3 @@ JSON/XML – For storing game data
 CMake – For project build automation
 
 Installation & Running the Game 🚀
-Clone the repository:
-
-sh
-Copy
-Edit
-git clone https://github.com/your-username/smurf-village-adventure.git
-cd smurf-village-adventure
-Install SDL2 dependencies.
-
-Compile the project using g++ or CMake.
-
-Run the executable and start exploring!
-
