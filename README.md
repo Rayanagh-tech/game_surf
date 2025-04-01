@@ -41,8 +41,3 @@ Compile the project using g++ or CMake.
 
 Run the executable and start exploring!
 
-Contributing 🤝
-Contributions are welcome! Feel free to submit bug reports, feature requests, or pull requests.
-
-License 📜
-This project is licensed under the MIT License.
